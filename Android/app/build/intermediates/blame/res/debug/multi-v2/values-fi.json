@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Masters\\Aug19-Dec04\\Advanced\\ProductFinal\\UserProfileAPI\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fi\\values-fi.xml",
+            "outputFile": "D:\\Masters\\Aug19-Dec04\\Advanced\\shoppingCart\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fi\\values-fi.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Sheetal Patil\\.gradle\\caches\\transforms-2\\files-2.1\\d0580eff8677cec3db7ff27c442d153d\\jetified-navigation-ui-2.0.0\\res\\values-fi\\values-fi.xml",
+                    "source": "C:\\Users\\Sheetal Patil\\.gradle\\caches\\transforms-2\\files-2.1\\0e94f2bd4ee52e6f31a7593985494ab6\\jetified-navigation-ui-2.0.0\\res\\values-fi\\values-fi.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Masters\\Aug19-Dec04\\Advanced\\ProductFinal\\UserProfileAPI\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "D:\\Masters\\Aug19-Dec04\\Advanced\\shoppingCart\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Sheetal Patil\\.gradle\\caches\\transforms-2\\files-2.1\\a6ce3afbff3f1ae3fa1fe13048b173d9\\media-1.0.0\\res\\values-v21\\values-v21.xml",
@@ -80,7 +80,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Sheetal Patil\\.gradle\\caches\\transforms-2\\files-2.1\\2a728fee022708f6a7300c84d48941e0\\jetified-drop-in-4.1.1\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\Sheetal Patil\\.gradle\\caches\\transforms-2\\files-2.1\\a729b4d6d7392754f7b3003c0e9ddbe5\\jetified-drop-in-4.1.1\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,11,17",
                         "startColumns": "4,4,4",

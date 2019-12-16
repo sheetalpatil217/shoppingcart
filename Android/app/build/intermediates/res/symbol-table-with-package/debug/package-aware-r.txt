@@ -1495,6 +1495,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id usernameText
 id viewFriendProfile
 id view_offset_helper
 id visible

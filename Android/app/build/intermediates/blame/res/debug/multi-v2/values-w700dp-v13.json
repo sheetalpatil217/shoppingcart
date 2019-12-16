@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Masters\\Aug19-Dec04\\Advanced\\ProductFinal\\UserProfileAPI\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w700dp-v13\\values-w700dp-v13.xml",
+            "outputFile": "D:\\Masters\\Aug19-Dec04\\Advanced\\shoppingCart\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w700dp-v13\\values-w700dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Sheetal Patil\\.gradle\\caches\\transforms-2\\files-2.1\\2a728fee022708f6a7300c84d48941e0\\jetified-drop-in-4.1.1\\res\\values-w700dp-v13\\values-w700dp-v13.xml",
+                    "source": "C:\\Users\\Sheetal Patil\\.gradle\\caches\\transforms-2\\files-2.1\\a729b4d6d7392754f7b3003c0e9ddbe5\\jetified-drop-in-4.1.1\\res\\values-w700dp-v13\\values-w700dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

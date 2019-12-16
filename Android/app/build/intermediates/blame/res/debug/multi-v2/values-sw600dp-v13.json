@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Masters\\Aug19-Dec04\\Advanced\\ProductFinal\\UserProfileAPI\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "D:\\Masters\\Aug19-Dec04\\Advanced\\shoppingCart\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Sheetal Patil\\.gradle\\caches\\transforms-2\\files-2.1\\cb634fe4b4d1fdfcd5255e485d30a0c1\\material-1.0.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",

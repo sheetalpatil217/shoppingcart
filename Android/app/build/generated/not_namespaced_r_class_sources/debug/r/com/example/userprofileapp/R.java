@@ -5705,14 +5705,15 @@ public final class R {
     public static final int unlabeled=0x7f080139;
     public static final int up=0x7f08013a;
     public static final int useLogo=0x7f08013b;
-    public static final int viewFriendProfile=0x7f08013c;
-    public static final int view_offset_helper=0x7f08013d;
-    public static final int visible=0x7f08013e;
-    public static final int waiting_group=0x7f08013f;
-    public static final int weight_friend=0x7f080140;
-    public static final int withText=0x7f080141;
-    public static final int wrap=0x7f080142;
-    public static final int wrap_content=0x7f080143;
+    public static final int usernameText=0x7f08013c;
+    public static final int viewFriendProfile=0x7f08013d;
+    public static final int view_offset_helper=0x7f08013e;
+    public static final int visible=0x7f08013f;
+    public static final int waiting_group=0x7f080140;
+    public static final int weight_friend=0x7f080141;
+    public static final int withText=0x7f080142;
+    public static final int wrap=0x7f080143;
+    public static final int wrap_content=0x7f080144;
   }
   public static final class integer {
     public static final int abc_config_activityDefaultDur=0x7f090000;

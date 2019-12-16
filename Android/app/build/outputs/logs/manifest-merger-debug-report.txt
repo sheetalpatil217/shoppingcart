@@ -1,22 +1,22 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:2:1-26:12
-MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\d0580eff8677cec3db7ff27c442d153d\jetified-navigation-ui-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.karumi:dexter:5.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\04caac9ce0ba8d1cab907a2b4d615ed0\jetified-dexter-5.0.0\AndroidManifest.xml:17:1-32:12
-MERGED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2a728fee022708f6a7300c84d48941e0\jetified-drop-in-4.1.1\AndroidManifest.xml:2:1-29:12
-MERGED from [com.braintreepayments:card-form:4.1.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\c645c07445e4fe09de6cde1a6cad7d3a\jetified-card-form-4.1.0\AndroidManifest.xml:2:1-11:12
+ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\0e94f2bd4ee52e6f31a7593985494ab6\jetified-navigation-ui-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\98d443d09393b13547798f747399dc16\jetified-dexter-5.0.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\a729b4d6d7392754f7b3003c0e9ddbe5\jetified-drop-in-4.1.1\AndroidManifest.xml:2:1-29:12
+MERGED from [com.braintreepayments:card-form:4.1.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\c4cf58ee1f6ae5f24306f1ce06d90f69\jetified-card-form-4.1.0\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\cb634fe4b4d1fdfcd5255e485d30a0c1\material-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.braintreepayments.api:braintree:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\60bded74cacf249aa54c28b2e2babba5\jetified-braintree-3.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.braintreepayments.api:braintree:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\8f42a888f39b7e17464d01f1e2b29da6\jetified-braintree-3.0.0\AndroidManifest.xml:2:1-18:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\f6a183f8595ca34f3d5cc99d1f8bc322\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\1964611a1907e3ea07b40ce4c516c284\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.navigation:navigation-fragment:2.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\aeb78aaf12926810b940dcc273431a57\navigation-fragment-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\e694a7e2aff166e32bb925c16729a19b\lifecycle-extensions-2.0.0\AndroidManifest.xml:17:1-25:12
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\13ed6c7657af8d8c1e1991a28d6eedfd\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
-MERGED from [com.android.volley:volley:1.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\856aaef79083e72271f604c5380cc9a1\jetified-volley-1.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2de878c194ba9d6f9426e50b6443cf97\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\e11367b8894c14573ad91d5f48477ec8\jetified-volley-1.1.1\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\a755bc2bf7daf8c97079754aa7845483\rxandroid-2.1.0\AndroidManifest.xml:15:1-20:12
 MERGED from [com.paypal.android.sdk:paypal-one-touch:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\4acaa7db95d8977aae77427214f74acd\paypal-one-touch-3.0.0\AndroidManifest.xml:2:1-13:12
@@ -55,123 +55,123 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Sheetal Patil\.g
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\9093771a98b01557e81860f4122d7892\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\7ec682ca46f5c90ea9a9e0cba0c0310a\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.braintreepayments.api:google-payment:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\69dc43c6bc76124043b7239136a09fc7\jetified-google-payment-3.0.0\AndroidManifest.xml:2:1-17:12
-MERGED from [com.paypal.android.sdk:data-collector:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\837e4eae970aa37141991b581f701d97\jetified-data-collector-3.0.0\AndroidManifest.xml:2:1-13:12
-INJECTED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.braintreepayments.api:google-payment:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\4f24a23fed4269aa3e23266c5992da5e\jetified-google-payment-3.0.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.paypal.android.sdk:data-collector:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\e11259b1800a4d75c51a40279b3ef27a\jetified-data-collector-3.0.0\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
-		ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:3:5-41
-		INJECTED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml
-		ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:2:1-26:12
-		INJECTED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml
-		ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:2:1-26:12
-		INJECTED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:5:5-67
-MERGED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2a728fee022708f6a7300c84d48941e0\jetified-drop-in-4.1.1\AndroidManifest.xml:13:5-67
-MERGED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2a728fee022708f6a7300c84d48941e0\jetified-drop-in-4.1.1\AndroidManifest.xml:13:5-67
-MERGED from [com.braintreepayments.api:braintree:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\60bded74cacf249aa54c28b2e2babba5\jetified-braintree-3.0.0\AndroidManifest.xml:12:5-67
-MERGED from [com.braintreepayments.api:braintree:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\60bded74cacf249aa54c28b2e2babba5\jetified-braintree-3.0.0\AndroidManifest.xml:12:5-67
+ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\a729b4d6d7392754f7b3003c0e9ddbe5\jetified-drop-in-4.1.1\AndroidManifest.xml:13:5-67
+MERGED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\a729b4d6d7392754f7b3003c0e9ddbe5\jetified-drop-in-4.1.1\AndroidManifest.xml:13:5-67
+MERGED from [com.braintreepayments.api:braintree:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\8f42a888f39b7e17464d01f1e2b29da6\jetified-braintree-3.0.0\AndroidManifest.xml:12:5-67
+MERGED from [com.braintreepayments.api:braintree:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\8f42a888f39b7e17464d01f1e2b29da6\jetified-braintree-3.0.0\AndroidManifest.xml:12:5-67
 MERGED from [com.paypal.android.sdk:paypal-one-touch:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\4acaa7db95d8977aae77427214f74acd\paypal-one-touch-3.0.0\AndroidManifest.xml:11:5-67
 MERGED from [com.paypal.android.sdk:paypal-one-touch:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\4acaa7db95d8977aae77427214f74acd\paypal-one-touch-3.0.0\AndroidManifest.xml:11:5-67
-MERGED from [com.paypal.android.sdk:data-collector:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\837e4eae970aa37141991b581f701d97\jetified-data-collector-3.0.0\AndroidManifest.xml:11:5-67
-MERGED from [com.paypal.android.sdk:data-collector:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\837e4eae970aa37141991b581f701d97\jetified-data-collector-3.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.paypal.android.sdk:data-collector:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\e11259b1800a4d75c51a40279b3ef27a\jetified-data-collector-3.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.paypal.android.sdk:data-collector:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\e11259b1800a4d75c51a40279b3ef27a\jetified-data-collector-3.0.0\AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:6:5-79
-MERGED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2a728fee022708f6a7300c84d48941e0\jetified-drop-in-4.1.1\AndroidManifest.xml:12:5-79
-MERGED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2a728fee022708f6a7300c84d48941e0\jetified-drop-in-4.1.1\AndroidManifest.xml:12:5-79
-MERGED from [com.braintreepayments.api:braintree:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\60bded74cacf249aa54c28b2e2babba5\jetified-braintree-3.0.0\AndroidManifest.xml:11:5-79
-MERGED from [com.braintreepayments.api:braintree:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\60bded74cacf249aa54c28b2e2babba5\jetified-braintree-3.0.0\AndroidManifest.xml:11:5-79
+ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\a729b4d6d7392754f7b3003c0e9ddbe5\jetified-drop-in-4.1.1\AndroidManifest.xml:12:5-79
+MERGED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\a729b4d6d7392754f7b3003c0e9ddbe5\jetified-drop-in-4.1.1\AndroidManifest.xml:12:5-79
+MERGED from [com.braintreepayments.api:braintree:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\8f42a888f39b7e17464d01f1e2b29da6\jetified-braintree-3.0.0\AndroidManifest.xml:11:5-79
+MERGED from [com.braintreepayments.api:braintree:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\8f42a888f39b7e17464d01f1e2b29da6\jetified-braintree-3.0.0\AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:8:5-24:19
-MERGED from [com.karumi:dexter:5.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\04caac9ce0ba8d1cab907a2b4d615ed0\jetified-dexter-5.0.0\AndroidManifest.xml:26:5-30:19
-MERGED from [com.karumi:dexter:5.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\04caac9ce0ba8d1cab907a2b4d615ed0\jetified-dexter-5.0.0\AndroidManifest.xml:26:5-30:19
-MERGED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2a728fee022708f6a7300c84d48941e0\jetified-drop-in-4.1.1\AndroidManifest.xml:15:5-27:19
-MERGED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2a728fee022708f6a7300c84d48941e0\jetified-drop-in-4.1.1\AndroidManifest.xml:15:5-27:19
+ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:8:5-24:19
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\98d443d09393b13547798f747399dc16\jetified-dexter-5.0.0\AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\98d443d09393b13547798f747399dc16\jetified-dexter-5.0.0\AndroidManifest.xml:26:5-30:19
+MERGED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\a729b4d6d7392754f7b3003c0e9ddbe5\jetified-drop-in-4.1.1\AndroidManifest.xml:15:5-27:19
+MERGED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\a729b4d6d7392754f7b3003c0e9ddbe5\jetified-drop-in-4.1.1\AndroidManifest.xml:15:5-27:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\cb634fe4b4d1fdfcd5255e485d30a0c1\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\cb634fe4b4d1fdfcd5255e485d30a0c1\material-1.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.braintreepayments.api:braintree:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\60bded74cacf249aa54c28b2e2babba5\jetified-braintree-3.0.0\AndroidManifest.xml:14:5-16:19
-MERGED from [com.braintreepayments.api:braintree:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\60bded74cacf249aa54c28b2e2babba5\jetified-braintree-3.0.0\AndroidManifest.xml:14:5-16:19
+MERGED from [com.braintreepayments.api:braintree:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\8f42a888f39b7e17464d01f1e2b29da6\jetified-braintree-3.0.0\AndroidManifest.xml:14:5-16:19
+MERGED from [com.braintreepayments.api:braintree:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\8f42a888f39b7e17464d01f1e2b29da6\jetified-braintree-3.0.0\AndroidManifest.xml:14:5-16:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\e694a7e2aff166e32bb925c16729a19b\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\e694a7e2aff166e32bb925c16729a19b\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\13ed6c7657af8d8c1e1991a28d6eedfd\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\13ed6c7657af8d8c1e1991a28d6eedfd\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
-MERGED from [com.android.volley:volley:1.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\856aaef79083e72271f604c5380cc9a1\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
-MERGED from [com.android.volley:volley:1.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\856aaef79083e72271f604c5380cc9a1\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2de878c194ba9d6f9426e50b6443cf97\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2de878c194ba9d6f9426e50b6443cf97\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\e11367b8894c14573ad91d5f48477ec8\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\e11367b8894c14573ad91d5f48477ec8\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.0.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\72b2b92ec4ab73ff21fb9bc348de3b22\core-1.0.1\AndroidManifest.xml:22:5-89
 MERGED from [androidx.core:core:1.0.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\72b2b92ec4ab73ff21fb9bc348de3b22\core-1.0.1\AndroidManifest.xml:22:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\07608d1ce0a2b5e25216bbe877b06158\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\07608d1ce0a2b5e25216bbe877b06158\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\bba9e662e9f4bf0da774229f97b853fc\lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\bba9e662e9f4bf0da774229f97b853fc\lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
-MERGED from [com.braintreepayments.api:google-payment:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\69dc43c6bc76124043b7239136a09fc7\jetified-google-payment-3.0.0\AndroidManifest.xml:11:5-15:19
-MERGED from [com.braintreepayments.api:google-payment:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\69dc43c6bc76124043b7239136a09fc7\jetified-google-payment-3.0.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.braintreepayments.api:google-payment:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\4f24a23fed4269aa3e23266c5992da5e\jetified-google-payment-3.0.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.braintreepayments.api:google-payment:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\4f24a23fed4269aa3e23266c5992da5e\jetified-google-payment-3.0.0\AndroidManifest.xml:11:5-15:19
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\72b2b92ec4ab73ff21fb9bc348de3b22\core-1.0.1\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:11:9-41
 	tools:ignore
-		ADDED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2a728fee022708f6a7300c84d48941e0\jetified-drop-in-4.1.1\AndroidManifest.xml:17:9-39
+		ADDED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\a729b4d6d7392754f7b3003c0e9ddbe5\jetified-drop-in-4.1.1\AndroidManifest.xml:17:9-39
 	android:roundIcon
-		ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:12:9-54
+		ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:12:9-54
 	android:icon
-		ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:14:9-40
+		ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:14:9-40
 	android:usesCleartextTraffic
-		ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:15:9-44
+		ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:15:9-44
 activity#com.example.userprofileapp.PlaymentActivityHome
-ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:16:9-67
+ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:16:9-67
 	android:name
-		ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:16:19-55
+		ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:16:19-55
 activity#com.example.userprofileapp.MainActivity
-ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:17:9-23:20
+ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:17:9-23:20
 	android:name
-		ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:17:19-47
+		ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:17:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:18:13-22:29
+ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml:21:27-74
 uses-sdk
-INJECTED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml
-INJECTED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml
-MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\d0580eff8677cec3db7ff27c442d153d\jetified-navigation-ui-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\d0580eff8677cec3db7ff27c442d153d\jetified-navigation-ui-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.karumi:dexter:5.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\04caac9ce0ba8d1cab907a2b4d615ed0\jetified-dexter-5.0.0\AndroidManifest.xml:22:5-24:41
-MERGED from [com.karumi:dexter:5.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\04caac9ce0ba8d1cab907a2b4d615ed0\jetified-dexter-5.0.0\AndroidManifest.xml:22:5-24:41
-MERGED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2a728fee022708f6a7300c84d48941e0\jetified-drop-in-4.1.1\AndroidManifest.xml:8:5-10:41
-MERGED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2a728fee022708f6a7300c84d48941e0\jetified-drop-in-4.1.1\AndroidManifest.xml:8:5-10:41
-MERGED from [com.braintreepayments:card-form:4.1.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\c645c07445e4fe09de6cde1a6cad7d3a\jetified-card-form-4.1.0\AndroidManifest.xml:7:5-9:41
-MERGED from [com.braintreepayments:card-form:4.1.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\c645c07445e4fe09de6cde1a6cad7d3a\jetified-card-form-4.1.0\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\0e94f2bd4ee52e6f31a7593985494ab6\jetified-navigation-ui-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\0e94f2bd4ee52e6f31a7593985494ab6\jetified-navigation-ui-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\98d443d09393b13547798f747399dc16\jetified-dexter-5.0.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\98d443d09393b13547798f747399dc16\jetified-dexter-5.0.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\a729b4d6d7392754f7b3003c0e9ddbe5\jetified-drop-in-4.1.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\a729b4d6d7392754f7b3003c0e9ddbe5\jetified-drop-in-4.1.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.braintreepayments:card-form:4.1.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\c4cf58ee1f6ae5f24306f1ce06d90f69\jetified-card-form-4.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.braintreepayments:card-form:4.1.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\c4cf58ee1f6ae5f24306f1ce06d90f69\jetified-card-form-4.1.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\cb634fe4b4d1fdfcd5255e485d30a0c1\material-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\cb634fe4b4d1fdfcd5255e485d30a0c1\material-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.braintreepayments.api:braintree:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\60bded74cacf249aa54c28b2e2babba5\jetified-braintree-3.0.0\AndroidManifest.xml:7:5-9:41
-MERGED from [com.braintreepayments.api:braintree:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\60bded74cacf249aa54c28b2e2babba5\jetified-braintree-3.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.braintreepayments.api:braintree:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\8f42a888f39b7e17464d01f1e2b29da6\jetified-braintree-3.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.braintreepayments.api:braintree:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\8f42a888f39b7e17464d01f1e2b29da6\jetified-braintree-3.0.0\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\f6a183f8595ca34f3d5cc99d1f8bc322\appcompat-1.0.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\f6a183f8595ca34f3d5cc99d1f8bc322\appcompat-1.0.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\1964611a1907e3ea07b40ce4c516c284\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
@@ -182,10 +182,10 @@ MERGED from [androidx.navigation:navigation-fragment:2.0.0] C:\Users\Sheetal Pat
 MERGED from [androidx.navigation:navigation-fragment:2.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\aeb78aaf12926810b940dcc273431a57\navigation-fragment-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\e694a7e2aff166e32bb925c16729a19b\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\e694a7e2aff166e32bb925c16729a19b\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\13ed6c7657af8d8c1e1991a28d6eedfd\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\13ed6c7657af8d8c1e1991a28d6eedfd\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
-MERGED from [com.android.volley:volley:1.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\856aaef79083e72271f604c5380cc9a1\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
-MERGED from [com.android.volley:volley:1.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\856aaef79083e72271f604c5380cc9a1\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2de878c194ba9d6f9426e50b6443cf97\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2de878c194ba9d6f9426e50b6443cf97\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\e11367b8894c14573ad91d5f48477ec8\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\e11367b8894c14573ad91d5f48477ec8\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\a755bc2bf7daf8c97079754aa7845483\rxandroid-2.1.0\AndroidManifest.xml:18:5-43
@@ -262,56 +262,56 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Sheetal Patil\.gradle\caches\t
 MERGED from [androidx.print:print:1.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\7ec682ca46f5c90ea9a9e0cba0c0310a\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.braintreepayments.api:google-payment:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\69dc43c6bc76124043b7239136a09fc7\jetified-google-payment-3.0.0\AndroidManifest.xml:7:5-9:41
-MERGED from [com.braintreepayments.api:google-payment:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\69dc43c6bc76124043b7239136a09fc7\jetified-google-payment-3.0.0\AndroidManifest.xml:7:5-9:41
-MERGED from [com.paypal.android.sdk:data-collector:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\837e4eae970aa37141991b581f701d97\jetified-data-collector-3.0.0\AndroidManifest.xml:7:5-9:41
-MERGED from [com.paypal.android.sdk:data-collector:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\837e4eae970aa37141991b581f701d97\jetified-data-collector-3.0.0\AndroidManifest.xml:7:5-9:41
-INJECTED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml
-INJECTED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml
+MERGED from [com.braintreepayments.api:google-payment:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\4f24a23fed4269aa3e23266c5992da5e\jetified-google-payment-3.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.braintreepayments.api:google-payment:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\4f24a23fed4269aa3e23266c5992da5e\jetified-google-payment-3.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.paypal.android.sdk:data-collector:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\e11259b1800a4d75c51a40279b3ef27a\jetified-data-collector-3.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.paypal.android.sdk:data-collector:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\e11259b1800a4d75c51a40279b3ef27a\jetified-data-collector-3.0.0\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml
-		ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml
-		ADDED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Masters\Aug19-Dec04\Advanced\ProductFinal\UserProfileAPI\Android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Masters\Aug19-Dec04\Advanced\shoppingCart\Android\app\src\main\AndroidManifest.xml
 activity#com.karumi.dexter.DexterActivity
-ADDED from [com.karumi:dexter:5.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\04caac9ce0ba8d1cab907a2b4d615ed0\jetified-dexter-5.0.0\AndroidManifest.xml:27:9-29:72
+ADDED from [com.karumi:dexter:5.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\98d443d09393b13547798f747399dc16\jetified-dexter-5.0.0\AndroidManifest.xml:27:9-29:72
 	android:theme
-		ADDED from [com.karumi:dexter:5.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\04caac9ce0ba8d1cab907a2b4d615ed0\jetified-dexter-5.0.0\AndroidManifest.xml:29:13-69
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\98d443d09393b13547798f747399dc16\jetified-dexter-5.0.0\AndroidManifest.xml:29:13-69
 	android:name
-		ADDED from [com.karumi:dexter:5.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\04caac9ce0ba8d1cab907a2b4d615ed0\jetified-dexter-5.0.0\AndroidManifest.xml:28:13-60
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\98d443d09393b13547798f747399dc16\jetified-dexter-5.0.0\AndroidManifest.xml:28:13-60
 activity#com.braintreepayments.api.dropin.DropInActivity
-ADDED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2a728fee022708f6a7300c84d48941e0\jetified-drop-in-4.1.1\AndroidManifest.xml:18:9-20:64
+ADDED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\a729b4d6d7392754f7b3003c0e9ddbe5\jetified-drop-in-4.1.1\AndroidManifest.xml:18:9-20:64
 	android:theme
-		ADDED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2a728fee022708f6a7300c84d48941e0\jetified-drop-in-4.1.1\AndroidManifest.xml:20:13-61
+		ADDED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\a729b4d6d7392754f7b3003c0e9ddbe5\jetified-drop-in-4.1.1\AndroidManifest.xml:20:13-61
 	android:name
-		ADDED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2a728fee022708f6a7300c84d48941e0\jetified-drop-in-4.1.1\AndroidManifest.xml:19:13-75
+		ADDED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\a729b4d6d7392754f7b3003c0e9ddbe5\jetified-drop-in-4.1.1\AndroidManifest.xml:19:13-75
 activity#com.braintreepayments.api.dropin.AddCardActivity
-ADDED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2a728fee022708f6a7300c84d48941e0\jetified-drop-in-4.1.1\AndroidManifest.xml:21:9-23:65
+ADDED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\a729b4d6d7392754f7b3003c0e9ddbe5\jetified-drop-in-4.1.1\AndroidManifest.xml:21:9-23:65
 	android:theme
-		ADDED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2a728fee022708f6a7300c84d48941e0\jetified-drop-in-4.1.1\AndroidManifest.xml:23:13-62
+		ADDED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\a729b4d6d7392754f7b3003c0e9ddbe5\jetified-drop-in-4.1.1\AndroidManifest.xml:23:13-62
 	android:name
-		ADDED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2a728fee022708f6a7300c84d48941e0\jetified-drop-in-4.1.1\AndroidManifest.xml:22:13-76
+		ADDED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\a729b4d6d7392754f7b3003c0e9ddbe5\jetified-drop-in-4.1.1\AndroidManifest.xml:22:13-76
 activity#com.braintreepayments.api.dropin.VaultManagerActivity
-ADDED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2a728fee022708f6a7300c84d48941e0\jetified-drop-in-4.1.1\AndroidManifest.xml:24:9-26:70
+ADDED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\a729b4d6d7392754f7b3003c0e9ddbe5\jetified-drop-in-4.1.1\AndroidManifest.xml:24:9-26:70
 	android:theme
-		ADDED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2a728fee022708f6a7300c84d48941e0\jetified-drop-in-4.1.1\AndroidManifest.xml:26:13-67
+		ADDED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\a729b4d6d7392754f7b3003c0e9ddbe5\jetified-drop-in-4.1.1\AndroidManifest.xml:26:13-67
 	android:name
-		ADDED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2a728fee022708f6a7300c84d48941e0\jetified-drop-in-4.1.1\AndroidManifest.xml:25:13-81
+		ADDED from [com.braintreepayments.api:drop-in:4.1.1] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\a729b4d6d7392754f7b3003c0e9ddbe5\jetified-drop-in-4.1.1\AndroidManifest.xml:25:13-81
 service#com.braintreepayments.api.internal.AnalyticsIntentService
-ADDED from [com.braintreepayments.api:braintree:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\60bded74cacf249aa54c28b2e2babba5\jetified-braintree-3.0.0\AndroidManifest.xml:15:9-93
+ADDED from [com.braintreepayments.api:braintree:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\8f42a888f39b7e17464d01f1e2b29da6\jetified-braintree-3.0.0\AndroidManifest.xml:15:9-93
 	android:name
-		ADDED from [com.braintreepayments.api:braintree:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\60bded74cacf249aa54c28b2e2babba5\jetified-braintree-3.0.0\AndroidManifest.xml:15:18-90
+		ADDED from [com.braintreepayments.api:braintree:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\8f42a888f39b7e17464d01f1e2b29da6\jetified-braintree-3.0.0\AndroidManifest.xml:15:18-90
 provider#com.squareup.picasso.PicassoProvider
-ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\13ed6c7657af8d8c1e1991a28d6eedfd\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2de878c194ba9d6f9426e50b6443cf97\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
 	android:authorities
-		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\13ed6c7657af8d8c1e1991a28d6eedfd\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2de878c194ba9d6f9426e50b6443cf97\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
 	android:exported
-		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\13ed6c7657af8d8c1e1991a28d6eedfd\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2de878c194ba9d6f9426e50b6443cf97\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
 	android:name
-		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\13ed6c7657af8d8c1e1991a28d6eedfd\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\2de878c194ba9d6f9426e50b6443cf97\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\bba9e662e9f4bf0da774229f97b853fc\lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
 	android:authorities
@@ -323,8 +323,8 @@ ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Sheetal Patil\.
 	android:name
 		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\bba9e662e9f4bf0da774229f97b853fc\lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
 activity#com.braintreepayments.api.GooglePaymentActivity
-ADDED from [com.braintreepayments.api:google-payment:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\69dc43c6bc76124043b7239136a09fc7\jetified-google-payment-3.0.0\AndroidManifest.xml:12:9-14:62
+ADDED from [com.braintreepayments.api:google-payment:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\4f24a23fed4269aa3e23266c5992da5e\jetified-google-payment-3.0.0\AndroidManifest.xml:12:9-14:62
 	android:theme
-		ADDED from [com.braintreepayments.api:google-payment:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\69dc43c6bc76124043b7239136a09fc7\jetified-google-payment-3.0.0\AndroidManifest.xml:14:13-59
+		ADDED from [com.braintreepayments.api:google-payment:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\4f24a23fed4269aa3e23266c5992da5e\jetified-google-payment-3.0.0\AndroidManifest.xml:14:13-59
 	android:name
-		ADDED from [com.braintreepayments.api:google-payment:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\69dc43c6bc76124043b7239136a09fc7\jetified-google-payment-3.0.0\AndroidManifest.xml:13:13-75
+		ADDED from [com.braintreepayments.api:google-payment:3.0.0] C:\Users\Sheetal Patil\.gradle\caches\transforms-2\files-2.1\4f24a23fed4269aa3e23266c5992da5e\jetified-google-payment-3.0.0\AndroidManifest.xml:13:13-75
